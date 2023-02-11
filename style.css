@@ -195,3 +195,13 @@ background-color: aliceblue;
     height: auto;
     width: auto;
 }
+@media(max-width:500px){
+    #name{
+        font-size:40px;
+    }
+    .sel:hover{
+        height: auto;
+        width: auto;
+    }
+
+}
