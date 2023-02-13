@@ -6,7 +6,8 @@
     display: flex;
     justify-content:space-between;
     position: sticky;
-    top:0px
+    top:0px;
+    z-index:1;
     
 }
 
@@ -15,7 +16,7 @@ body{
     padding: 0;
     height: 150vh;
     background-image: linear-gradient(
-        to bottom,
+        to top left,
         blue,rgb(56, 131, 66),rgb(87, 80, 80),rgb(0, 255, 242),white
     );
     background-color: #cccccc;
