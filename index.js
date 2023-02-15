@@ -14,9 +14,12 @@ function func(){
 }
 
 function overview(){
-    window.location.href = "login.html"
+    
     var t = document.getElementById("baar");
     t.innerHTML = "";
     
     
+}
+function login(){
+window.location.href = "login.html"
 }
