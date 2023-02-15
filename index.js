@@ -12,6 +12,11 @@ function func(){
     
     
 }
-function login(){
-    window.location.href = "video.html"
+
+function overview(){
+    window.location.href = "login.html"
+    var t = document.getElementById("baar");
+    t.innerHTML = "";
+    
+    
 }
