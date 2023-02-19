@@ -94,13 +94,13 @@ font-weight: 800;
   border: 1px solid;
 }
 
-@media (max-width: 590px) {
+@media (max-width: 650px) {
   #sear {
     width: 70px;
   }
   .nav a{
     position: relative;
-    right: 10px;
+    right: 5px;
   }
 }
 .boxc {
