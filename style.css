@@ -98,6 +98,10 @@ font-weight: 800;
   #sear {
     width: 70px;
   }
+  .logo{
+  position: relative;
+  right: 10px;
+}
   .nav a{
     position: relative;
     right: 5px;
