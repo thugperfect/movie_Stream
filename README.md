@@ -7,4 +7,4 @@ made interactive,
 
 darkmode enabled.
 
-check this link out https://thugperfect.github.io/movie_fetch/
+check this link out https://thugperfect.github.io/movie_Stream/
